@@ -1,0 +1,6 @@
+C:\Users\Markus\Documents\GitHub\DesignMedlem\DesignMedlem\DesignMedlem\bin\Debug\DesignMedlem.exe.config
+C:\Users\Markus\Documents\GitHub\DesignMedlem\DesignMedlem\DesignMedlem\bin\Debug\DesignMedlem.exe
+C:\Users\Markus\Documents\GitHub\DesignMedlem\DesignMedlem\DesignMedlem\bin\Debug\DesignMedlem.pdb
+C:\Users\Markus\Documents\GitHub\DesignMedlem\DesignMedlem\DesignMedlem\obj\Debug\DesignMedlem.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Documents\GitHub\DesignMedlem\DesignMedlem\DesignMedlem\obj\Debug\DesignMedlem.exe
+C:\Users\Markus\Documents\GitHub\DesignMedlem\DesignMedlem\DesignMedlem\obj\Debug\DesignMedlem.pdb
